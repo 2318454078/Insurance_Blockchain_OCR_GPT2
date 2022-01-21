@@ -1,0 +1,3 @@
+﻿username,Company Name,Insurance policy number,Insured amount,Policyholder,Effective date of the policy,ID number of the Policyholder ,Type of Policyholder's Document,The insured,ID number of the insured,Date of Birth of the Insured,Type of Insured's Document,Insurance period,Basic insurance amount,Payment period,Frequency of payment,Amount of payment per period,Product name,Beneficiary's name
+Leo,新华人寿保险股份有限公司,13042919650202169,5230.00,王建书,,13042919650202169,身份证,王建书,,1965-02-02,身份证,,100000.00,附加险,年交,5230.00,吉星高照A款两全保险(分红型),法定
+Leo,,,2430.00,张三,2019-05-01,8888,身份证,张三,,196-02-18,身份证,至70周岁,10000000.00,1年,年交,,三峡美爱相随定期寿险(基础),法定
